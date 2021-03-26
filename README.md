@@ -1,4 +1,4 @@
 # ProductivityPlus
 
 
-[currently beta](https://joel-nickson.github.io/ProductivityPlus/)
+[work in prog... 🤔](https://joel-nickson.github.io/ProductivityPlus/)
